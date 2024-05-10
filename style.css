@@ -1,0 +1,55 @@
+.ff {
+    font-family: "Fredoka", sans-serif;
+    font-weight: 500;
+}
+
+.fs-7{
+    font-size: 14px;
+}
+
+.dropdown-item p {
+    line-height:3px;
+}
+
+.img-fluid {
+    height: 35px;
+    width: 35px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.ms-7 {
+    margin-left: 300px;
+}
+
+.bg-greenlight {
+    background-color: rgb(219, 255, 219);
+}
+
+.bg-bluelight {
+    background-color: rgb(235, 244, 255);
+}
+
+.bg-dangerlight {
+    background-color: rgb(255, 227, 227);
+}
+
+.hover:hover {
+    background-color: rgb(243, 249, 255);
+}
+
+.overflow-auto::-webkit-scrollbar {
+    width: 7px;
+}
+
+.overflow-auto::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+.overflow-auto::-webkit-scrollbar-thumb {
+    background-color:rgb(212, 212, 212);
+    border-radius: 10px;
+}
+
